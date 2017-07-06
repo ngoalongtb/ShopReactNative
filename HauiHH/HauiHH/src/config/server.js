@@ -1,0 +1,1 @@
+export var server_api = 'http://192.168.62.1:1111/';

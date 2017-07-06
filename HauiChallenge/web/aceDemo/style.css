@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+}
+.mgTop10{
+    margin-top: 10px;
+}
+.left{
+    float:left;
+    max-width:800px;
+}
+.right{
+    float:right;
+    width:350px;
+}
